@@ -19,7 +19,5 @@ test
 test
 
 <pre>
-<script>
-alert(1)
-</script>
+test
 </pre>
