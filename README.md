@@ -23,7 +23,3 @@ test
 alert(1)
 </script>
 </pre>
-
-<script>
-alert(1)
-</script>
