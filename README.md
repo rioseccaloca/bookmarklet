@@ -6,7 +6,7 @@
 
 https://rioseccaloca.github.io/bookmarklet/
 
-https://github.com/rioseccaloca/bookmarklet
+https://github.com/rioseccaloca/bookmarklet/
 
 <pre>
 test

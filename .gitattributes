@@ -1,3 +1,5 @@
 # リポジトリ内のsjisファイルを指定
-*.c diff=cp932
-*.h diff=cp932
+# *.c diff=cp932
+# *.h diff=cp932
+# *.html diff=sjis
+# *.txt diff=sjis
