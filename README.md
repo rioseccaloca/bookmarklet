@@ -26,3 +26,18 @@ hwmonitor 1.52
 mingw 13.2.0-rt_v11-rev0
 volta 1.1.1
 vscode 1.84.2
+
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
